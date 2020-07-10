@@ -1,0 +1,47 @@
+
+.container{
+    background-color: #f0fff0;
+    
+}
+ 
+.align-middle p {
+    color: red;
+}
+.Highlights span {
+    color :green;
+    
+}
+.row{
+  margin-left:auto;
+}
+
+.Submit-Button, .Sign-In-Button {
+    background-color:#21B573;
+    border-radius: 26px;
+    
+}
+
+
+
+.card img{
+    width: 75px;
+    Height :80px;
+    
+}  
+
+
+.card{
+    width: 170px;
+    Height: 170px;
+    border-radius: 5px;
+    box-shadow: 20px 22px 25px lightgrey;
+    background-color:rgb(222, 233, 222);
+    align-items: center; 
+    
+}
+
+.card-deck{
+    margin-top: 50px;
+    padding-left:310px;
+    position: absolute;
+}
